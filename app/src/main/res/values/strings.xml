@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Shamo</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_account">Account</string>
+</resources>
